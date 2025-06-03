@@ -1,0 +1,11 @@
+cd path/to/wifi-handshake-capture-and-crack-demo
+
+# Initialize git repo
+git init
+git remote add origin https://github.com/sandeep3062/wifi-handshake-capture-and-crack-demo.git
+
+# Add and push files
+git add .
+git commit -m "Initial commit - Wi-Fi handshake capture and crack demo"
+git branch -M main
+git push -u origin main
